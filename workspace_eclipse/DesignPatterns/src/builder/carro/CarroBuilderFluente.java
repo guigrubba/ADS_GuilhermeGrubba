@@ -1,5 +1,7 @@
 package builder;
 
+import builder.carro.Carro;
+
 public class CarroBuilderFluente {
 	private Carro carro;
 	public CarroBuilderFluente() {

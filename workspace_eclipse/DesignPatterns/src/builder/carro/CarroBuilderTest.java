@@ -4,6 +4,9 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
+import builder.carro.Carro;
+import builder.carro.CarroBuilder;
+
 class CarroBuilderTest {
 
 	@Test

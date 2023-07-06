@@ -1,4 +1,9 @@
-package builder;
+package builder.carro;
+
+import builder.ComputadorBordo;
+import builder.FreioABS;
+import builder.Motor;
+import builder.Porta;
 
 public class Carro {
 	private Porta[] portas;

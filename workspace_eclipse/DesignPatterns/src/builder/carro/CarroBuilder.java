@@ -1,4 +1,10 @@
-package builder;
+package builder.carro;
+
+import builder.ComputadorBordo;
+import builder.FreioABS;
+import builder.Motor;
+import builder.Porta;
+import builder.carro.Carro;
 
 public class CarroBuilder {
 	private Carro carro;
